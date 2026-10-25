@@ -1,0 +1,27 @@
+## Visual Studio / .NET
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+## Test Results
+TestResults/
+*.trx
+*.coverage
+*.opencover.xml
+
+## Scripts
+dotnet-install.ps1
+
+## OS Generated
+.DS_Store
+Thumbs.db
+
